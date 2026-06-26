@@ -25,23 +25,54 @@ Full screen recording covers the complete happy-path flow from Home → Fund →
 
 ## Screenshots
 
-| File | Step |
-|------|------|
-| `homebalance.png` | Home screen — wallet balance $6.01 |
-| `fundsceencurrencytoggle.png` | Fund screen with Fiat/Crypto toggle (Fiat selected) |
-| `currencylist.png` | Full currency list — NGN, KES, GHC, ZAR and others with correct flags |
-| `depositmethod.png` | Choose Deposit Method — Bank Transfer 0.5%, Flutterwave 2–4% |
-| `fxamount.PNG` | Amount entry: ₦2,000 → $1.39, rate $1=₦1,430, saved bank account shown |
-| `agentmatch.png` | Agent match — Glatt Network (Paul Promise) ✓, Opay, acct 9133135718, escrow message, timer 14:56 |
-| `senttimercountdown.PNG` | Make Transfer — same agent details, timer at 14:40 |
-| `recieptupload.png` | Confirm Transfer — receipt IMG_8272.png successfully uploaded, loading |
-| `1stp2psuccess.PNG` | Transaction Details (See Details) — ₦9,814.10 = $6.86, Status: Successful, Stellar hash shown |
-| `newbalance.png` | Home after second deposit — balance $7.28, "Wallet Top-up from P2P +₦1,814.10" dated Jun 26 |
-| `blankwhitebug.PNG` | **Bug** — white/blank screen after timer-expired session restart |
-| `txnoti.png` | **Bug** — Notifications → Transaction tab: "No Notifications" after confirmed deposit |
-| `bankaccvalidation.PNG` | **Edge Case 1** — "Unable to resolve account details" error on New Bank Account form |
-| `confirmtransferwithotreciept.PNG` | **Edge Case 3** — "Please upload proof of payment before continuing" toast |
-| `newbank.PNG` | New Bank Account form filled (before submission) |
+### Step 1 — Home Screen
+![Home screen showing wallet balance](homebalance.png)
+
+### Step 2 — Fund Screen (Fiat Toggle)
+![Fund screen with Fiat/Crypto toggle](fundsceencurrencytoggle.png)
+
+### Step 3 — Currency Selection
+![Full currency list — NGN, KES, GHC, ZAR visible with correct flags](currencylist.png)
+
+### Step 4 — Choose Deposit Method
+![Choose Deposit Method — Bank Transfer 0.5%, Flutterwave 2–4%](depositmethod.png)
+
+### Step 5 — Amount Entry & FX Rate
+![Amount entry: ₦2,000 → $1.39, rate $1=₦1,430, bank account selected](fxamount.PNG)
+
+### Step 6 — Add New Bank Account
+![New Bank Account form filled with bank, name, and account number](newbank.PNG)
+
+### Step 7 — Agent Match & Transfer Instructions (timer 14:56)
+![Agent match — Glatt Network (Paul Promise) verified, Opay, escrow message, timer 14:56](agentmatch.png)
+
+### Step 8 — Make Transfer (timer 14:40)
+![Make Transfer screen — same agent details, countdown timer at 14:40](senttimercountdown.PNG)
+
+### Step 9 — Receipt Upload (successful)
+![Confirm Transfer — receipt IMG_8272.png uploaded, loading indicator](recieptupload.png)
+
+### Step 10 — Transaction Details (See Details)
+![Transaction Details — ₦9,814.10 = $6.86, Status Successful, Stellar XLM hash](1stp2psuccess.PNG)
+
+### Step 11 — Home Screen After Second Deposit Arrived
+![Home screen — balance $7.28, Wallet Top-up from P2P +₦1,814.10 dated Jun 26](newbalance.png)
+
+---
+
+### Bug 1 — White Screen After Timer Expiry
+![Blank white screen on app relaunch after timer-expired session](blankwhitebug.PNG)
+
+### Bug 2 — Transaction Notifications Not Working
+![Notifications → Transaction tab showing No Notifications after confirmed deposit](txnoti.png)
+
+---
+
+### Edge Case 1 — Bank Account Validation Error
+![Unable to resolve account details error on New Bank Account form](bankaccvalidation.PNG)
+
+### Edge Case 3 — No Receipt Upload Error
+![Please upload proof of payment before continuing toast on Confirm Transfer screen](confirmtransferwithotreciept.PNG)
 
 ---
 
