@@ -26,53 +26,53 @@ Full screen recording covers the complete happy-path flow from Home → Fund →
 ## Screenshots
 
 ### Step 1 — Home Screen
-![Home screen showing wallet balance](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/homebalance.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/homebalance.png" width="300"/>
 
 ### Step 2 — Fund Screen (Fiat Toggle)
-![Fund screen with Fiat/Crypto toggle](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/fundsceencurrencytoggle.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/fundsceencurrencytoggle.png" width="300"/>
 
 ### Step 3 — Currency Selection
-![Full currency list](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/currencylist.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/currencylist.png" width="300"/>
 
 ### Step 4 — Choose Deposit Method
-![Choose Deposit Method](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/depositmethod.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/depositmethod.png" width="300"/>
 
 ### Step 5 — Amount Entry and FX Rate
-![Amount entry with FX rate and bank account](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/fxamount.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/fxamount.PNG" width="300"/>
 
 ### Step 6 — Add New Bank Account
-![New Bank Account form](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/newbank.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/newbank.PNG" width="300"/>
 
 ### Step 7 — Agent Match and Transfer Instructions
-![Agent match screen with timer at 14:56](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/agentmatch.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/agentmatch.png" width="300"/>
 
 ### Step 8 — Make Transfer (timer counting down)
-![Make Transfer screen with timer at 14:40](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/senttimercountdown.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/senttimercountdown.PNG" width="300"/>
 
 ### Step 9 — Receipt Uploaded Successfully
-![Confirm Transfer with receipt uploaded](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/recieptupload.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/recieptupload.png" width="300"/>
 
 ### Step 10 — Transaction Details
-![Transaction Details showing successful deposit](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/1stp2psuccess.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/1stp2psuccess.PNG" width="300"/>
 
 ### Step 11 — Home Screen After Second Deposit Arrived
-![Home screen showing updated balance after delayed deposit](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/newbalance.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/newbalance.png" width="300"/>
 
 ---
 
 ### Bug 1 — White Screen After Timer Expiry
-![Blank white screen on app relaunch after timer expired](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/blankwhitebug.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/blankwhitebug.PNG" width="300"/>
 
 ### Bug 2 — Transaction Notifications Not Working
-![Notifications Transaction tab showing No Notifications](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/txnoti.png)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/txnoti.png" width="300"/>
 
 ---
 
 ### Edge Case 1 — Bank Account Validation Error
-![Unable to resolve account details error](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/bankaccvalidation.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/bankaccvalidation.PNG" width="300"/>
 
 ### Edge Case 3 — No Receipt Upload Blocked
-![Please upload proof of payment error toast](https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/confirmtransferwithotreciept.PNG)
+<img src="https://raw.githubusercontent.com/Uchechukwu-Ekezie/greeppay-p2p-ux-bounty/main/confirmtransferwithotreciept.PNG" width="300"/>
 
 ---
 
